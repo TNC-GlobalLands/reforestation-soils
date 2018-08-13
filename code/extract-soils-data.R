@@ -1,7 +1,7 @@
 #####################################################
 # Retrieve SoilGrids data for meta-analysis points  #
 # Author: Stephen Wood                              #
-# Last updated: June 2018                           #
+# Last updated: August 2018                        #
 #####################################################
 
 
